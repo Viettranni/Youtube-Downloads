@@ -6,7 +6,7 @@ To use this script, follow these steps:
 
 - Modify the python script to include the Path to your own Folder!
 
-Rune the following command in your Terminal:
+Run the following command in your Terminal:
 
 1. pip install pytube
 
